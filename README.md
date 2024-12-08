@@ -1,5 +1,7 @@
 # What the Font
 
+![Chrome Promotional Marquee](./images/what-the-font.png)
+
 **What the Font** is a lightweight and user-friendly Chrome extension designed to help web developers, designers, and typography enthusiasts quickly identify the font-family of any element on a webpage. With a simple toggle, you can activate the extension and hover over any element to instantly view its font details. 
 
 ---
