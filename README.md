@@ -1,0 +1,2 @@
+# what-the-font
+ Discover fonts effortlessly with What the Font—a powerful yet lightweight Chrome extension that lets you identify the font-family of any element on a webpage. Perfect for designers, developers, and typography enthusiasts, this tool provides a seamless way to explore and inspect fonts with just a hover. Simplify your design process and get inspired by web typography like never before!
